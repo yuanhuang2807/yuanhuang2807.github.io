@@ -179,21 +179,21 @@ var soloKanbanniang = {
       } else {
         var now = (new Date()).getHours()
         if (now > 23 || now <= 5) {
-          text = 'Thức khuya thế làm clgt thằng Wibu, mai dậy nổi không đấy?'
+          text = 'Thức khuya thế làm gì :( đi ngủ sớm đi kẻo mình lo!'
         } else if (now > 5 && now <= 7) {
-          text = '早上好！一日之计在于晨，美好的一天就要开始了'
+          text = 'Trời sáng rồi, chúc bạn có một ngày vui vẻ nhé :P'
         } else if (now > 7 && now <= 11) {
-          text = '上午好！工作顺利嘛，不要久坐，多起来走动走动哦！'
+          text = 'Đã đến giờ đến trường với đi làm rồi đấy, cùng nhau cố gắng nhé！加油！'
         } else if (now > 11 && now <= 14) {
-          text = '中午了，工作了一个上午，现在是午餐时间！'
+          text = 'Nghỉ trưa thôi nào, buổi sáng của bạn có tốt không? Hãy tiếp tục cố gắng nhé :P！'
         } else if (now > 14 && now <= 17) {
-          text = '午后很容易犯困呢，今天的运动目标完成了吗？'
+          text = 'Buổi chiều khiến cho con người ta buồn ngủ quá đi thôi :( nhưng vẫn phải tiếp tục nhỉ!'
         } else if (now > 17 && now <= 19) {
-          text = '傍晚了！窗外夕阳的景色很美丽呢，最美不过夕阳红~'
+          text = 'Khoảng thời gian đẹp nhất của một ngày là khi nào? Là những lúc chiều muộn như này đấy! Thư giản đi nào...'
         } else if (now > 19 && now <= 21) {
-          text = '晚上好，今天过得怎么样？'
+          text = 'Ngày hôm nay của bạn sao rồi？Vẫn tốt cả nhỉ, cuộc sống là một cuộc hành trình, hôm nay bạn đã đi được thêm rồi đấy! Cùng tiếp tục đi nào!'
         } else if (now > 21 && now <= 23) {
-          text = '已经这么晚了呀，早点休息吧，晚安~'
+          text = 'Muộn lắm rồi đấy! Đi ngủ thôi! :> Chúc bạn ngủ ngon! 晚安！'
         } else {
           text = '嗨~ 快来逗我玩吧！'
         }
