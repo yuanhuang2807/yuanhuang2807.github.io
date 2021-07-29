@@ -211,7 +211,7 @@ var soloKanbanniang = {
       window.setInterval(soloKanbanniang.showChat, 30000)
   
       $(document).on('copy', function () {
-        soloKanbanniang.showMessage('你都复制了些什么呀，转载要记得加上出处哦', 5000, true)
+        soloKanbanniang.showMessage('Vừa copy cái gì xong đúng không -_-', 5000, true)
       })
     },
     showChat: function () {
