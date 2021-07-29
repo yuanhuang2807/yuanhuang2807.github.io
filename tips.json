@@ -1,0 +1,108 @@
+{
+    "mouseover": [
+        {
+            "selector": "a[href^='http']",
+            "text": "Muốn xem <span style=\"color:#4285f4;\">{text}</span> hả？"
+        },
+        {
+            "selector": "#soloKanbanniangRSS",
+            "text": "Thích xem less thì cũng nhớ xem gay cho đủ bộ nhé :3<span style=\"color:#4285f4;\">订阅</span>！"
+        },
+        {
+            "selector": "#soloKanbanniangHome",
+            "text": "Click vào <span style=\"color:#4285f4;\">trang chủ</span>，để về lại trang chủ nhé dâm tặc chan!"
+        },
+        {
+            "selector": "#soloKanbanniangChat",
+            "text": "Đoán xem ta muốn nói gì nào"
+        },
+        {
+            "selector": "textarea",
+            "text": "认真填写哦，垃圾评论是禁止事项"
+        },
+        {
+            "selector": "#soloKanbanniangChange",
+            "text": "Thích xem playboy không hả dâm tặc？"
+        },
+        {
+            "selector": "#soloKanbanniangClose",
+            "text": "Đến lúc nói tạm biệt và biến đi chưa mày?"
+        },
+        {
+            "selector": "#soloKanbanniangPhoto",
+            "text": "Tao muốn chụp ảnh m một phát，一二三~click~~"
+        },
+        {
+            "selector": "#soloKanbanniang",
+            "text": "Ê. ế. Đem chuột đi bậy rồi tề！"
+        },
+        {
+            "selector": "#soloKanbanniangGithub",
+            "text": "Đem em vào 5 sao, trói em vào cây đào :3🌟"
+        },
+        {
+            "selector": "#soloKanbanniangRSS",
+            "text": "Thích thì nhấn vào <span style=\"color:#4285f4;\">đây </span>thằng ngu!"
+        }
+    ],
+    "click": [
+        {
+            "selector": "#soloKanbanniang",
+            "text": ["Á. á. Cẩn thận, đụng nhầm chỗ rồi", "Biến đi, thằng Wibu đê tiện!", "Chưa nhìn thấy ngực bao giờ hả hả dâm tặc?", "Sờ thêm nữa t báo cảnh sát là ấu dâm đấy Wibuuuuuu！⌇●﹏●⌇", "113 phải không? Ở đây có thằng Wibu dâm tặc, biến thái, đê tiện(ó﹏ò｡)"]
+        }
+    ],
+    "seasons": [
+        {
+            "date": "01/01",
+            "text": "<span style=\"color:#4285f4;\">元旦</span>了呢，新的一年又开始了，{year}年打算做些什么呢~"
+        },
+        {
+            "date": "02/14",
+            "text": "又是一年<span style=\"color:#4285f4;\">情人节</span>，{year}年找到对象了嘛~"
+        },
+        {
+            "date": "03/08",
+            "text": "今天是<span style=\"color:#4285f4;\">妇女节</span>！"
+        },
+        {
+            "date": "03/12",
+            "text": "今天是<span style=\"color:#4285f4;\">植树节</span>，要保护环境呀"
+        },
+        {
+            "date": "04/01",
+            "text": "悄悄告诉你一个秘密~<span style=\"color:#34495e;background-color:#34495e;\">今天是愚人节，不要被骗了哦~</span>"
+        },
+        {
+            "date": "05/01",
+            "text": "今天是<span style=\"color:#4285f4;\">五一劳动节</span>，计划好假期去哪里了吗~"
+        },
+        {
+            "date": "06/01",
+            "text": "<span style=\"color:#4285f4;\">儿童节</span>了呢，快活的时光总是短暂，要是永远长不大该多好啊…"
+        },
+        {
+            "date": "09/03",
+            "text": "<span style=\"color:#4285f4;\">中国人民抗日战争胜利纪念日</span>，铭记历史、缅怀先烈、珍爱和平、开创未来。"
+        },
+        {
+            "date": "09/10",
+            "text": "<span style=\"color:#4285f4;\">教师节</span>，在学校要给老师问声好呀~"
+        },
+        {
+            "date": "10/01",
+            "text": "<span style=\"color:#4285f4;\">国庆节</span>，新中国已经成立69年了呢"
+        },
+        {
+            "date": "11/05-11/12",
+            "text": "今年的<span style=\"color:#4285f4;\">双十一</span>是和谁一起过的呢~"
+        },
+        {
+            "date": "12/20-12/28",
+            "text": "这几天是<span style=\"color:#4285f4;\">圣诞节</span>，主人肯定又去剁手买买买了~"
+        },
+        {
+            "date": "12/29-12/31",
+            "text": "要<span style=\"color:#4285f4;\">年终</span>了哦~ 年初许下的愿望都实现了吗？"
+        }
+    ]
+}
